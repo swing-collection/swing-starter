@@ -1,2 +1,1 @@
-# swing-starter
-Django Swing Starter Project
+# Django Swing | Starter Project
